@@ -7,3 +7,16 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+  *I can't honestly say I've learned a ton yet. I was pretty familiar with HTML
+   before and have also taken the Intro to Programming nanodegree, so most of this
+   was already covered except the strike, hr, and sup tags.
+
+  *Most of it was easy so far, didn't have much difficulty with much of the coding.
+
+  *The only two things I can say I had issues with was the feedback extension because
+   the first time I tried to use it, it wasn't working properly. And second, still
+   learning github so I had to remember how to create and clone to repo.
+
+  *Haven't had to use much of my problem solving skills so far except to go off on
+   my own to learn those couple tags I hadn't seen yet.
